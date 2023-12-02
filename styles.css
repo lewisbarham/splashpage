@@ -16,11 +16,30 @@
     justify-items: center;
     flex-direction: column;
     text-align: center;
+    padding-top: 20%;
 
+}
+
+.addressbox {
+    display: flex;
+    align-items: flex-start;
+    align-content: center;
 
 }
 
 .address {
-    text-align: justifys;
-    align-content: flex-end;
+    text-align: left;
+    align-content: center;
+    padding-right: 15%;
+}
+
+.contact {
+    text-align: left;
+    padding-left: 20%;
+}
+
+.copyright  {
+padding-top: 15%%;
+font-size: small;
+margin-top: auto;
 }
