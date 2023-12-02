@@ -1,0 +1,26 @@
+.frame {
+    box-sizing: border-box;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    width: 800px;
+    height: 600px;
+    border: 2px black;
+    border-style: solid;
+    border-radius: 10px;
+    align-items: center;
+    
+}
+
+.content {
+    justify-items: center;
+    flex-direction: column;
+    text-align: center;
+
+
+}
+
+.address {
+    text-align: justifys;
+    align-content: flex-end;
+}
